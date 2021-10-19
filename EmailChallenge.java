@@ -45,9 +45,8 @@ public class EmailChallenge{
 
         } catch (MalformedURLException e) {
             System.out.println("Incorrect URL");
-        }       
-          
-
+        } 
+  
     }
    
 }   
