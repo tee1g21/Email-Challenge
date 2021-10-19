@@ -6,7 +6,7 @@ import java.io.*;
 public class EmailChallenge{
     public static void main(String[] args) throws IOException{     
         
-        //scanner calss used to take userinput from command line
+        //scanner class used to take userinput from command line
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter Email ID: ");
         String id = scanner.next(); 
